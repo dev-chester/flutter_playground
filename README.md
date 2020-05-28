@@ -10,9 +10,11 @@
 
 4. download commandline tool only https://developer.android.com/studio/?gclid=EAIaIQobChMIrOurrNPV6QIVE6uWCh1CdQ1kEAAYASAAEgJdf_D_BwE&gclsrc=aw.ds#downloads
 
-5. Plug your android phone (debugging enabled)
+5. git clone https://github.com/dev-chester/flutter_playground my_flutter_project
 
-6. Build and Run in VSCode
+6. Plug your android phone (debugging enabled)
+
+7. Build and Run in VSCode
 
 
 
